@@ -25,7 +25,7 @@ def closest_enemies(matrix):
         total_distance = height_min + vertical_min
         distance.append(total_distance)    
         
-    print(min(distance))
+    return min(distance)
     
     
 

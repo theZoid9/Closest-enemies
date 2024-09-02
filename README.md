@@ -1,4 +1,5 @@
 # Closest-enemies
+
 Using the PYTHON language, have the function ClosestEnemyII(strArr) read the matrix
 of numbers stored in strArr which will be a 2D matrix that contains only the
 integers 1, 0, or 2. Then from the position in the matrix where a 1 is, return
@@ -62,4 +63,4 @@ Output: 2
              - find the min between direct_vertical and wrapped_vertical(v_min)
         total distance between player (1) and current enemy => (h_min,v_min)
         store total distance inside distances variable
-7.return min value inside the calculated distances
+7. return min value inside the calculated distances
